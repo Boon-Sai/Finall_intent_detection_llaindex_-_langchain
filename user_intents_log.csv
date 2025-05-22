@@ -1,0 +1,19 @@
+session_id,user_name,user_email,query,detected_intent,confidence_score,timestamp
+1747902437.610439,Boonsai,boonsai2002@gmail.com,hi,about,0.2373298284430976,2025-05-22 13:57:43
+1747902437.610439,Boonsai,boonsai2002@gmail.com,who are you?,founders,0.1894255080274206,2025-05-22 13:57:52
+1747902437.610439,Boonsai,boonsai2002@gmail.com,who are the founders?,founders,0.6012704072676321,2025-05-22 13:58:11
+1747903022.911705,Boonsai,boonsai2002@gmail.com,hello,about,0.2149279336741952,2025-05-22 14:07:28
+1747903022.911705,Boonsai,boonsai2002@gmail.com,who are you,founders,0.246738356079907,2025-05-22 14:07:36
+1747903022.911705,Boonsai,boonsai2002@gmail.com,who are the founders,founders,0.6428668509122369,2025-05-22 14:07:47
+1747903022.911705,Boonsai,boonsai2002@gmail.com,what does tekworks do?,about,0.7177594756498635,2025-05-22 14:08:18
+1747903022.911705,Boonsai,boonsai2002@gmail.com,ok fine,jobs,0.1958143770366082,2025-05-22 14:08:30
+1747903022.911705,Boonsai,boonsai2002@gmail.com,what does tekworks do?,about,0.7177594756498635,2025-05-22 14:09:11
+1747903757.831542,Boonsai,boonsai2002@gmail.com,Hello,about,0.2149279336741952,2025-05-22 14:20:03
+1747903757.831542,Boonsai,boonsai2002@gmail.com,who are you,founders,0.246738356079907,2025-05-22 14:20:12
+1747903855.070589,Boonsai,boonsai2002@gmail.com,hello,about,0.2149279336741952,2025-05-22 14:21:19
+1747903855.070589,Boonsai,boonsai2002@gmail.com,who are you?,founders,0.1894255080274206,2025-05-22 14:21:32
+1747904248.977611,Boonsai,boonsai2002@gmail.com,"hello, who are you?",founders,0.2436436599363236,2025-05-22 14:27:52
+1747904392.83373,Boonsai,boonsai2002@gmail.com,who are you?,founders,0.1894255080274206,2025-05-22 14:30:10
+1747904392.83373,Boonsai,boonsai2002@gmail.com,what is tekworks?,about,0.7439425142457544,2025-05-22 14:30:36
+1747904392.83373,Boonsai,boonsai2002@gmail.com,who are the founders?,founders,0.6012704072676321,2025-05-22 14:30:48
+1747904392.83373,Boonsai,boonsai2002@gmail.com,ok great,about,0.2000531364391633,2025-05-22 14:30:53

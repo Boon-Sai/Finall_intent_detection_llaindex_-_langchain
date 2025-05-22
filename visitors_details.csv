@@ -1,0 +1,5 @@
+name,email,purpose,intent_counts,most_searched_intent,total_queries,timestamp,session_id
+Boonsai,boonsai2002@gmail.com,job ,"{'founders': 2, 'about': 1}",founders,3,2025-05-22 13:57:17,1747902437.610439
+Boonsai,boonsai2002@gmail.com,for jobs,"{'founders': 2, 'about': 1}",founders,3,2025-05-22 14:07:02,1747903022.911705
+Boonsai,boonsai2002@gmail.com,for jobs,"{'founders': 2, 'about': 1}",founders,3,2025-05-22 14:07:02,1747903022.911705
+Boonsai,boonsai2002@gmail.com,fgf,"{'founders': 2, 'about': 2}",about,4,2025-05-22 14:29:52,1747904392.83373
